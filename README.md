@@ -2,6 +2,10 @@
 
 ![Design preview for the Chat app CSS illustration](./design/desktop-preview.jpg)
 
+**Live-Demo** [https://chat-app-css-illustration-liart.vercel.app/](https://chat-app-css-illustration-liart.vercel.app/)
+
+**Codepen** [https://codepen.io/tmorrell82/pen/vYyybxY](https://codepen.io/tmorrell82/pen/vYyybxY)
+
 ## Welcome! 👋
 
 Thanks for checking out my solution of this front-end coding challenge.
